@@ -5,7 +5,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:14532D,100:9EFF00&height=190&section=header&text=Rafael%20Gomes&fontSize=52&fontColor=FFFFFF&fontAlignY=34&desc=Estudante%20de%20T%C3%A9cnico%20em%20Inform%C3%A1tica%20%E2%80%A2%20Dev%20Web%20J%C3%BAnior%20%E2%80%A2%20Suporte%20e%20Tecnologia&descSize=15&descAlignY=54&animation=fadeIn" width="100%" alt="banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:14532D,100:9EFF00&height=190&section=header&text=Rafael%20Gomes&fontSize=52&fontColor=FFFFFF&fontAlignY=34&desc=Estudante%20de%20T%C3%A9cnico%20em%20Inform%C3%A1tica%20%E2%80%A2%20%20Web%20J%C3%BAnior%20%E2%80%A2%20Suporte%20e%20Tecnologia&descSize=15&descAlignY=54&animation=fadeIn" width="100%" alt="banner" />
 
 <a href="https://github.com/faelGomesSamp">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&duration=2800&pause=700&color=9EFF00&center=true&vCenter=true&width=720&height=45&lines=%24+whoami+%E2%86%92+Rafael+Gomes+Sampaio+Figueiredo;Desenvolvedor+Web+J%C3%BAnior;Suporte+T%C3%A9cnico+%26+Tecnologia;HTML+%C2%B7+CSS+%C2%B7+JavaScript+%C2%B7+React+%C2%B7+Node.js;Sempre+aprendendo%2C+sempre+construindo." alt="typing" />
@@ -49,7 +49,7 @@ cabo solto até o usuário resolvido. Estudo continuamente **back-end**, **SQL**
 
 ```yaml
 nome:    Rafael Gomes
-função:  Dev Web Júnior
+função:  Dev Júnior
 estudo:  Técnico em Informática
 foco:
   - Front-end
