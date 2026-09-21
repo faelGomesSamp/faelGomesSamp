@@ -20,7 +20,6 @@
 
 </div>
 
-<img src="https://raw.githubusercontent.com/faelGomesSamp/faelGomesSamp/output/dist/divider.svg" width="100%" onerror="this.style.display='none'" />
 
 <h2>
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face%20with%20Sunglasses.png" width="28" />
